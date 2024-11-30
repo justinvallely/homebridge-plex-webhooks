@@ -46,6 +46,7 @@
                       "placeholder": "e.g.: Player.title",
                       "typeahead": {
                         "source": [
+                          "event",
                           "user",
                           "owner",
                           "Account.id",
